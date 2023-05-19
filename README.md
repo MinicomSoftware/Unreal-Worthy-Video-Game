@@ -8,6 +8,7 @@ Character and gameplay mechanics include a 3d person camera, 3d movement, spell 
 </a>
 
 # Logo
+<img width="300" alt="logo" src="https://github.com/MinicomSoftware/Unreal-Worthy-Video-Game/assets/29552915/dc9a78f1-8ad7-46d3-b105-9c6948b9e367">
 
 # Team
 Wilson, Steven - Team Leader, Unreal Developer, and Video Editor
@@ -18,3 +19,5 @@ Carlos, Sharon - 2D Artist
 # Downloads:
 Windows 10 (2.11 GB): https://drive.google.com/file/d/1KyBh_GLqylWXOkAoIfoZVktbwHSMmhGc/view?usp=share_link <br>
 MacOS (2.09 GB): https://drive.google.com/file/d/1q-rKJjEaOvapSkbNctR0BTQ7MIxSluCY/view?usp=share_link
+
+# Final Grade: A+
